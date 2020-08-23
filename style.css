@@ -1,0 +1,48 @@
+.jumbotron{
+    text-align: center;
+    background:none;
+}
+.jumb{
+    background-color:#eceeef;
+    padding: 2rem;
+    
+}
+.section2{
+    background-color: #cccccc;
+    padding:2rem;
+}
+.stylebtn{
+            margin-top:20px;
+}
+button.style{
+     margin: auto;
+     display: block;
+     background-color:red;
+     color: #ffffff;
+}
+img.imgshadow{
+    border-radius: 4px;
+    box-shadow:2px 2px 5px rgba(0,0,0,.5)
+}
+
+img.imgh{
+   display: block;
+   margin:auto;
+   width:60%;
+}
+button.imgbtn{
+    margin:auto;
+    display: block;
+    margin-top: 15px;
+    margin-bottom:20px;
+    width:60%;
+}
+img.footimg{
+    width:50%;
+    padding:10px;
+    border-radius: 4px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0,.5);
+}
+.fa-facebook-square{
+    color: #3b5999;
+}
